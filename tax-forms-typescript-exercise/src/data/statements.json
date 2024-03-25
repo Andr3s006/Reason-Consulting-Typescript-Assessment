@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "statement-1",
+      "name": "PUR'N'CLEAN",
+      "contactInformation": {
+        "firstName": "James",
+        "lastName": "Holden",
+        "email": "jim.holden@rocinante.net",
+        "phoneNumber": "(123)-456-7890"
+      }
+    },
+    {
+      "id": "statement-2",
+      "name": "BERATNAS GAS",
+      "contactInformation": {
+        "firstName": "Naomi",
+        "lastName": "Nagata",
+        "email": "naomi.nagata@rocinante.net",
+        "phoneNumber": "(123)-456-4444"
+      }
+    },
+    {
+      "id": "statement-3",
+      "name": "TYCHO MFG",
+      "contactInformation": {
+        "firstName": "Camina",
+        "lastName": "Drummer",
+        "email": "camina.drummer@tmfg.com",
+        "phoneNumber": "(123)-456-0000"
+      }
+    },
+    {
+      "id": "statement-4",
+      "name": "STAR HELIX SECURITY",
+      "contactInformation": {
+        "firstName": "Josephus",
+        "lastName": "Miller",
+        "email": "josephus.miller@starhelix.net",
+        "phoneNumber": "(123)-456-1111"
+      }
+    }
+  ]
+}

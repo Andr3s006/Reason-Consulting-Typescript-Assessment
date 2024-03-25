@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    /* These settings enable STRICT mode */
+    "strict": true,
+    /* End STRICT mode */
+
+    /* These settings enable PERMISSIVE mode.  */
+    // "strict": false,
+    // "noImplicitAny": false,
+    // "strictNullChecks": false,
+    /* End PERMISSIVE mode */
+
+    /* There should be no need to change anything below this line */
+
+    // Allow Javascript files alongside Typescript. See README.
+    "allowJs": true,
+
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "src"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "listing-1",
+      "name": "PUR'N'CLEAN",
+      "physicalAddress": {
+        "address1": "1234 Some Pl.",
+        "address2": "",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "12345"
+      },
+      "mailingAddress": null
+    },
+    {
+      "id": "listing-2",
+      "name": "BERATNAS GAS",
+      "physicalAddress": {
+        "address1": "555 Timeout Ln",
+        "address2": "",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "11223"
+      },
+      "mailingAddress": null
+    },
+    {
+      "id": "listing-3",
+      "name": "TYCHO MFG",
+      "physicalAddress": {
+        "address1": "9078 Belt Way",
+        "address2": "",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "22982"
+      },
+      "mailingAddress": null
+    },
+    {
+      "id": "listing-4",
+      "name": "STAR HELIX SECURITY",
+      "physicalAddress": {
+        "address1": "123 Epstein Dr.",
+        "address2": "",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "22982"
+      },
+      "mailingAddress": null
+    }
+  ]
+}
